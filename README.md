@@ -1,13 +1,18 @@
-Dada uma expressão matemática em notação infixa, avalie o seu resultado. Por exemplo:
+# Stant Dojo #1
 
-3 * ( 2 + 5 ) = 21
+Given a mathematical expression in infix notation, evaluate its result.
 
-3 * ( 2 + 5 * 2) = 36
+**For example:** 
 
-Dica: Na notação infixa usual, os operadores são escritos entre os operandos. Na notação posfixa, os operadores são escritos depois dos operandos.
+3 * (2 + 5) = 21
 
-Infixa: 3 * ( 2 + 5)
+3 * (2 + 5 * 2) = 36
 
-Posfixa: 3 2 5 + *
 
-http://dojopuzzles.com/
+**Tip:** In the usual infix notation, operators are written between the operands. In the postfix notation, the operators are written after the operands. 
+
+**Infix:** 3 * (2 + 5)
+
+**Postfix:** 3 2 5 + *
+
+**Source:** http://dojopuzzles.com/
